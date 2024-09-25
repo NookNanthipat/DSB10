@@ -8,4 +8,8 @@ My data science and analytics projects
 3. R programming - Pao ying chub
 4. Looker GA4 Dashboard 
 5. Linear Resression model using caret
-   
+
+## Contact Me
+reach out to me at https://www.linkedin.com/in/nooknanthipat/
+
+
